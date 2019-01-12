@@ -1,1 +1,4 @@
-# Vision-Protector-Design-Based-on-Binocular-Parallex-Ranging-Algorithm-
+# Vision-Protector-Design-Based-on-Binocular-Parallex-Ranging-Algorithm
+#Introduction
+This vision protector uses intelligent algorithm in computer vision instead of traditional ultrasonic ranging to measure the distance between users and books. A function description graph is as following:
+. It solves all these problems above perfectly (advantages include: non-contacting, accurate, high fault tolerance, convenient), and it can even perform more functions including visualized indication and personalization. Itcontainsadual-camera,aLCD-screenandseveralbuttons. Itwillgiveoutaseriesofshortbeepswhenit detectsapossibleunhealthypostureofreading(working,watchingthescreenorsoon)anditwillﬂasha LED to keep reminding users to adjust their postures. This product adopts a non-contacting design which means users don’t need to wear it, and it adopts an advanced measuring algorithm to have a higher accuracy in detecting users’ bad sitting postures. This will certainly oﬀer a comfortable experience of using our product while keeping users a good sitting posture.
