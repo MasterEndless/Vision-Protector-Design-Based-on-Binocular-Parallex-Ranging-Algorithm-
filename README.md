@@ -30,7 +30,7 @@ Software Environment
 COPYRIGHT
 -----------------------------------------------------------
 
-    Copyright 2019, 2019 Table-mining group
+    Copyright 2019, 2019 Han Liu
     Contact: arnold981017@gmail.com
 
     you can redistribute our method and/or modify
