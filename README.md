@@ -16,7 +16,7 @@ Software Architecture
 ----
 
 The software architecture is as following.
-<img src='Images/Software Architecture.png'>
+<img src='Images/Software Architecure.png'>
  
  
 Software Environment
