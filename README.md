@@ -31,7 +31,7 @@ COPYRIGHT
 -----------------------------------------------------------
 
     Copyright 2019, 2019 Table-mining group
-    Contact: lomo123456@foxmail.com
+    Contact: arnold981017@gmail.com
 
     you can redistribute our method and/or modify
     it under the terms of the MIT License as published 
@@ -41,8 +41,6 @@ COPYRIGHT
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     MIT License for more details.
 
-    You should have received a copy of the MIT license
-    along with it.  If not, see <https://github.com/text-mining-project/Table-information-extraction/blob/master/LICENSE>.
 
 
 
